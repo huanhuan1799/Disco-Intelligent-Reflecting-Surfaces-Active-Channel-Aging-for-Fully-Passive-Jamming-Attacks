@@ -1,5 +1,5 @@
 # Disco-Intelligent-Reflecting-Surfaces-Active-Channel-Aging-for-Fully-Passive-Jamming-Attacks
-We highly respect reproducible research, so we try to provide the simulation codes for our published papers. There are some codes for our TWC paper "Disco Intelligent Reflecting Surfaces: Active Channel Aging for Fully-Passive Jamming Attacks."
+We highly respect reproducible research, so we try to provide the simulation codes for our published papers. There are some codes for our TWC paper "Disco Intelligent Reflecting Surfaces: Active Channel Aging for Fully-Passive Jamming Attacks." Please run the file named Main_TWCDISCO_Fig4.
 
 For more details about the DISCO idea, please refer to our recent paper as follows: 
 1. H. Huang, L. Dai, H. Zhang, C. Zhang, Z. Tian, Y. Cai, A. L. Swindlehurst, and Z. Han, “DISCO might not be funky: Random intelligent reflective surface configurations that attack,” arXivpreprint arXiv:2310.00687, Oct. 2023.
